@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab_exam_3</string>
+    <string name="playButton">Play Game</string>
+    <string name="selectCategory">Select Category</string>
+    <string name="option1">Countries</string>
+    <string name="option2">Colours</string>
+    <string name="option3">Fruits</string>
+    <string name="option4">Vehicles</string>
+    <string name="gameWonTextView">You Won!</string>
+    <string name="gameLostTextView">You Lost!</string>
+    <string name="wordTextView">"_ _ ABCD_ _ _ _ _ _ _"</string>
+    <string name="newGameButton">New Game</string>
+    <string name="backButton">Back</string>
+
+</resources>
